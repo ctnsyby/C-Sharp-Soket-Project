@@ -1,0 +1,4 @@
+c:\users\çetin\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.exe
+c:\users\çetin\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.pdb
+c:\users\çetin\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.exe
+c:\users\çetin\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.pdb
